@@ -13,4 +13,4 @@ jobs:
     runs-on: <>
     steps:
       - name: Checkout code
-        run: echo 'hello'
+        run: echo 'hello/../../../'
