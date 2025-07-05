@@ -2,6 +2,6 @@
   "name": "my_package",
   "version": "1.0.0",
   "dependencies": {
-    "http-errors": "^1.0.0"
+    "http-errors": "^2.0.0"
   }
 }
